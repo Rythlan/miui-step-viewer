@@ -64,10 +64,14 @@ The project uses a virtual environment to manage dependencies.
 
 ### 3. How to Use
 
+![Main application window showing daily, monthly, and yearly step charts](app-img/app.png)
+
 1.  **Run the application:**
     ```bash
     python main.py
     ```
+![ADB connection interface for syncing over USB or Wi-Fi](app-img/adb_connection.png)
+
 2.  **Connect to your Device:**
     *   **USB:** Connect your phone via USB. Click the "Refresh" button, and your device should appear in the dropdown list.
     *   **Wi-Fi:** Ensure your phone and computer are on the same network. Enter your phone's IP address and port (found in the *Wireless debugging* settings) into the IP field and click "Connect to IP".
