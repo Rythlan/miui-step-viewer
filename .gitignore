@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.kate-swp
+
+# macOS system files
+.DS_Store
